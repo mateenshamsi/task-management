@@ -72,7 +72,8 @@ app.post('/api/login', async (req, res) => {
       
      
       res.cookie('auth_token', token, {
-        httpOnly: false,
+        httpOnly: true,
+        secure:true ,
         sameSite: 'none',
         maxAge: 7 * 24 * 60 * 60 * 1000,
       });
@@ -97,7 +98,8 @@ app.post('/api/login', async (req, res) => {
 
     const token = jwt.sign({ userId: user.id }, secret, { expiresIn: '7d' });
     res.cookie('auth_token', token, {
-      httpOnly: false,
+      httpOnly: true,
+      secure:true,
       sameSite: 'none',
       maxAge: 7 * 24 * 60 * 60 * 1000,
     });

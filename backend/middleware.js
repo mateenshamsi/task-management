@@ -2,6 +2,7 @@ const jwt = require('jsonwebtoken')
 
 const isSignedIn = async (req, res, next) => {
   try {
+    console.log("cookies",req.cookies)
     const token = req.cookies.auth_token // Make sure the token is coming from cookies
     if (!token) {
       return res.status(401).json({ message: "Token Missing" }) // 401 is more appropriate for missing token
