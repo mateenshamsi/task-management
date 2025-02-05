@@ -1,0 +1,102 @@
+{
+  "users": [
+    {
+      "id": 1738760838453,
+      "username": "matin",
+      "email": "matinshamsi16@gmail.com",
+      "password": "$2a$10$Q75K2GOGpmjly.2lp58Go.WykeIA.AksT8qMTs8qvoQ4HLcuDbgnG"
+    },
+    {
+      "id": 1738761016732,
+      "username": "matinshamsi16",
+      "email": "matinshamsi@gmail.com",
+      "password": "$2a$10$Ya8GfGiE2x6Gk1gIOQ9QuutsssLBTer1U3YCSnFTeEK9DhQo2PlKK"
+    },
+    {
+      "id": 1738762030419,
+      "username": "sharifa",
+      "email": "sharifa@gmail.com",
+      "password": "$2a$10$1vAU/ASfAih/iXsWII9Fze3lj5F1mM8c0bkh2kER641AkMOnj6Dau"
+    },
+    {
+      "id": 1738762153337,
+      "username": "shari",
+      "email": "shari@gmail.com",
+      "password": "$2a$10$lPV.1rjSqEuUCa9mb9HYGu7u4yI83Sl19RqQ384Dj82sDeDDuRiCG"
+    },
+    {
+      "id": 1738767310977,
+      "username": "marz",
+      "email": "marz@gmail.com",
+      "password": "$2a$10$BDXlxQJ2Vyu39QcSNwkGV.4nMuN37FyV6/jF6dVjYhn3J/gzn.K1i"
+    },
+    {
+      "id": 1738769535543,
+      "username": "matin",
+      "email": "matin@gmail.com",
+      "password": "$2a$10$ok/tYjhRbXNAC2OJjGhrVeVRCzvrxQhbcBzHw6oJlTh8cJBWWeEdO"
+    },
+    {
+      "id": 1738769580941,
+      "username": "mat",
+      "email": "mat@gmail.com",
+      "password": "$2a$10$k0l7GyYWwfjvwdosGtqZN.Gh1vY35MwYxcmm2dI/dtHU5VzKp891G"
+    },
+    {
+      "id": 1738775280981,
+      "username": "march",
+      "email": "march@gmail.com",
+      "password": "$2a$10$3uGYncHukEZUG0hz3QMxW.Z.AnLp/u0GY/QmaFY5Njf/wGNp5FA4i"
+    },
+    {
+      "id": 1738775609042,
+      "username": "marc",
+      "email": "marc@gmail.com",
+      "password": "$2a$10$iWVcw42JjFGZU9Q/B/lzOOA86T6pEgmEYEQHwmS/dAjao8ZQmU9S2"
+    },
+    {
+      "id": 1738775657547,
+      "username": "mary",
+      "email": "mary@gmail.com",
+      "password": "$2a$10$.KbpVRuSMoooSv.lGrqf8ubWcKn9LsNFRR8eZguRSrO/OUsLgs4Ya"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "1738767273057",
+      "title": "hello",
+      "description": "hello",
+      "status": "Pending",
+      "userId": 1738674592715,
+      "createdDate": "2025-02-05T14:54:33.057Z",
+      "updatedDate": "2025-02-05T14:54:33.059Z"
+    },
+    {
+      "id": "1738767382374",
+      "title": "hello",
+      "description": "hello",
+      "status": "Pending",
+      "userId": 1738674592715,
+      "createdDate": "2025-02-05T14:56:22.374Z",
+      "updatedDate": "2025-02-05T14:56:22.374Z"
+    },
+    {
+      "id": "1738767678132",
+      "title": "hi",
+      "description": "hi",
+      "status": "Pending",
+      "userId": 1738674592715,
+      "createdDate": "2025-02-05T15:01:18.132Z",
+      "updatedDate": "2025-02-05T15:01:18.134Z"
+    },
+    {
+      "id": "1738767754093",
+      "title": "mat",
+      "description": "mati@gmail.com",
+      "status": "Pending",
+      "userId": 1738674592715,
+      "createdDate": "2025-02-05T15:02:34.093Z",
+      "updatedDate": "2025-02-05T15:02:34.093Z"
+    }
+  ]
+}
